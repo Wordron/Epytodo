@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.1",
+    "package.json": "^2.0.1"
+  },
+  "name": "b-web-200-nan-2-1-epytodo-camille.dumas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2027/B-WEB-200-NAN-2-1-epytodo-camille.dumas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2027/B-WEB-200-NAN-2-1-epytodo-camille.dumas/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2027/B-WEB-200-NAN-2-1-epytodo-camille.dumas#readme",
+  "description": ""
+}
